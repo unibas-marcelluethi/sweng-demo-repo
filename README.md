@@ -1,3 +1,3 @@
 # Sweng-Demo
 
-Awesome demo repository for the "Software Engineering" course.
+Boring demo repository for the "Software Engineering" course.
